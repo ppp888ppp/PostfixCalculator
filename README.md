@@ -41,5 +41,6 @@ The input will always be some mathematical expression that contains a combinatio
 
 ## Example output 
 
-![result](https://user-images.githubusercontent.com/51673576/65818254-e2c39000-e1dd-11e9-92cd-dbab8e5736e0.JPG)
+![POSTFIX](https://user-images.githubusercontent.com/51673576/65818461-8b262400-e1df-11e9-8e96-292ff37fbe1b.JPG)
+
 
