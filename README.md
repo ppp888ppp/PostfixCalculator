@@ -40,6 +40,6 @@ The input will always be some mathematical expression that contains a combinatio
 •	(4+8)*(6-5)/((3-2)*(2+2))
 
 ## Example output 
-type your infix expression: (4+8)*(6-5)/((3-2)*(2+2)) 
-converted to postfix: 4 8 + 6 5 - * 3 2 - 2 2 + * / 
-answer is 3.
+
+![result](https://user-images.githubusercontent.com/51673576/65818254-e2c39000-e1dd-11e9-92cd-dbab8e5736e0.JPG)
+
